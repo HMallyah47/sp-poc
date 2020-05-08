@@ -1,0 +1,6 @@
+com/massmutual/streaming/Customer$1.class
+com/massmutual/streaming/Customer$Builder.class
+com/massmutual/streaming/Customer.class
+com/massmutual/streaming/AvroConsumerV1.class
+com/massmutual/streaming/AvroProducerV1.class
+com/massmutual/streaming/AvroProducerV1$1.class
